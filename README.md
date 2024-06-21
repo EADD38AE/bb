@@ -18,3 +18,7 @@ luci-i18n-mosdns-zh-cn
 及其组件没有大改动的情况下不会追新
 
 其他插件都不动
+
+---------
+
+https://github.com/EADD38AE/bb.git
