@@ -2,7 +2,7 @@
 此仓库是几个适用于 immortalwrt 23.05.2 filogic 固件的一些源外插件
 https://downloads.immortalwrt.org/releases/23.05.2/targets/mediatek/filogic/
 
-主要用于通过 imagebuilder 构建路由器固件
+主要用于通过 imagebuilder 构建 filogic 系列的路由器固件
 
 当然也可以手动安装
 
